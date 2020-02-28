@@ -1,0 +1,1 @@
+cp /usr/src/app/hybrid/platforms/android/app/build/outputs/apk/debug/app-debug.apk /usr/src/app/apk/
